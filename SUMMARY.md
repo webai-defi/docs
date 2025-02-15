@@ -9,7 +9,7 @@
 ## Current Agents
 
 * [Trading Agent](current-agents/editor.md)
-* [Markdown](current-agents/markdown.md)
+* [Competence](current-agents/markdown.md)
 * [Images & media](current-agents/images-and-media.md)
 * [Interactive blocks](current-agents/interactive-blocks.md)
 * [OpenAPI](current-agents/openapi.md)
