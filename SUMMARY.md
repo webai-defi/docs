@@ -1,23 +1,30 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [About](README.md)
+* [Page](page.md)
+* [Current Agents](current-agents.md)
+* [Upcoming Agents](upcoming-agents.md)
+* [Sustainability and security](sustainability-and-security.md)
 
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
+* [Goals](getting-started/goals.md)
+* [Mission](getting-started/mission.md)
 
 ## Current Agents
 
-* [Trading Agent](current-agents/editor.md)
-* [Competence](current-agents/markdown.md)
-* [Images & media](current-agents/images-and-media.md)
-* [Interactive blocks](current-agents/interactive-blocks.md)
-* [OpenAPI](current-agents/openapi.md)
-* [Integrations](current-agents/integrations.md)
+* [Manager Agent](current-agents-1/manager-agent/README.md)
+  * [Trading Agent](current-agents-1/manager-agent/editor.md)
+  * [Page 1](current-agents-1/manager-agent/page-1.md)
+* [Competence Agent](current-agents-1/markdown.md)
+* [Visualize Agent](current-agents-1/images-and-media.md)
+* [Assistant Agent](current-agents-1/openapi.md)
+* [Supervision Agent](current-agents-1/integrations.md)
 
 ## Upcoming Agents
 
-* [Page 3](upcoming-agents/page-3.md)
-* [Page 2](upcoming-agents/page-2.md)
-* [Page](upcoming-agents/page.md)
-* [Page 1](upcoming-agents/page-1.md)
+* [Liquidity Agent](upcoming-agents-1/page-3.md)
+* [Arbitrage Agent](upcoming-agents-1/page-2.md)
+* [Security Agent](upcoming-agents-1/page.md)
+* [Automation Agent](upcoming-agents-1/page-1.md)
