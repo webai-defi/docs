@@ -1,30 +1,24 @@
 # Table of contents
 
 * [About](README.md)
-* [Page](page.md)
-* [Current Agents](current-agents.md)
-* [Upcoming Agents](upcoming-agents.md)
+* [Mission](page.md)
+* [Tokenomics](tokenomics.md)
+* [Current Agents](current-agents/README.md)
+  * [Manager Agent](current-agents/manager-agent.md)
+  * [Trading Agent](current-agents/editor.md)
+  * [Competence Agent](current-agents/markdown.md)
+  * [Visualize Agent](current-agents/images-and-media.md)
+  * [Assistant Agent](current-agents/openapi.md)
+  * [Supervision Agent](current-agents/integrations.md)
+* [Upcoming Agents](upcoming-agents/README.md)
+  * [Liquidity Agent](upcoming-agents/page-3.md)
+  * [Arbitrage Agent](upcoming-agents/page-2.md)
+  * [Security Agent](upcoming-agents/page.md)
+  * [Automation Agent](upcoming-agents/page-1.md)
 * [Sustainability and security](sustainability-and-security.md)
+* [Access to API](access-to-api.md)
 
-## Getting Started
+## links
 
-* [Quickstart](getting-started/quickstart.md)
-* [Goals](getting-started/goals.md)
-* [Mission](getting-started/mission.md)
-
-## Current Agents
-
-* [Manager Agent](current-agents-1/manager-agent/README.md)
-  * [Trading Agent](current-agents-1/manager-agent/editor.md)
-  * [Page 1](current-agents-1/manager-agent/page-1.md)
-* [Competence Agent](current-agents-1/markdown.md)
-* [Visualize Agent](current-agents-1/images-and-media.md)
-* [Assistant Agent](current-agents-1/openapi.md)
-* [Supervision Agent](current-agents-1/integrations.md)
-
-## Upcoming Agents
-
-* [Liquidity Agent](upcoming-agents-1/page-3.md)
-* [Arbitrage Agent](upcoming-agents-1/page-2.md)
-* [Security Agent](upcoming-agents-1/page.md)
-* [Automation Agent](upcoming-agents-1/page-1.md)
+* [twitter](https://x.com/WebAIDefi)
+* [source code](https://github.com/webai-defi/webai-defi-core)

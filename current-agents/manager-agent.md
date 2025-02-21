@@ -1,2 +1,3 @@
 # Manager Agent
 
+MANAGER
