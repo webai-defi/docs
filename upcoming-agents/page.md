@@ -1,4 +1,4 @@
-# Security Agent
+# Security Agent 
 
 The **Security Agent** is our all-seeing, all-knowing sentinel, tirelessly scanning the blockchain for any hint of malicious intent. It ensures that **honeypots, rug pulls, or exploit attempts** don’t stand a chance against your precious crypto assets.  
 
