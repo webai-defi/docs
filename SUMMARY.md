@@ -4,7 +4,7 @@
 * [Mission](page.md)
 * [Tokenomics](tokenomics.md)
 * [Current Agents](current-agents/README.md)
-  * [Manager Agent](current-agents/manager-agent.md)
+  * [Orchestrating agent](current-agents/manager-agent.md)
   * [Trading Agent](current-agents/editor.md)
   * [Competence Agent](current-agents/markdown.md)
   * [Visualize Agent](current-agents/images-and-media.md)
