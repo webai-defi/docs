@@ -16,7 +16,7 @@
   * [Security Agent](upcoming-agents/page.md)
   * [Automation Agent](upcoming-agents/page-1.md)
 * [Sustainability and security](sustainability-and-security.md)
-* [🧪 Agent Factory (Beta)](agent-factory.md)
+* [🧪 Agent Factory (Beta)](agent-factory-beta.md)
 * [Access to API](access-to-api.md)
 
 ## links
